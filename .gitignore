@@ -1,0 +1,13 @@
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### Maven
+*.xml.versionsBackup
+
+### IntelliJ IDEA ###
+.idea
+*.iml
+
+### Mac OS ###
+.DS_Store
